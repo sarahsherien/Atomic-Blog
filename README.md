@@ -1,1 +1,1 @@
-https://eat-and-split-six.vercel.app/
+https://atomic-blog-eosin.vercel.app/
